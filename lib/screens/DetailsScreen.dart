@@ -72,12 +72,12 @@ class DetailsScreen extends StatelessWidget {
                                   ),
                                   Padding(
                                     padding: const EdgeInsets.only(top: 20,left: 20,right: 5),
-                                    child: Icon(Icons.person_outline,color: Colors.grey,),
+                                    child: Icon(Icons.person_outline,color: Colors.green,),
                                   ),
                                   Padding(
                                     padding: const EdgeInsets.only(top: 20,left: 20,right: 5),
                                     child: Text("Tech Innovate",style: TextStyle(
-                                      color: Colors.grey,
+                                      color: Colors.green,
                                       fontSize: 14,
                                     ),),
                                   ),
